@@ -13,7 +13,7 @@
             <div class="p-4 bg-white flex flex-col rounded-lg w-full lg:w-1/2">
                 <div class="flex justify-between items-center mb-2">
                     <h1 class="text-base text-gray-700 font-poppins font-medium">
-                        Revealed Chat
+                        Hidden Chat
                     </h1>
 
                     <button @click="copyToClipboard" class="bg-gray-950 h-7 w-14 rounded-lg text-sm text-white">
